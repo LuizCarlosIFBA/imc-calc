@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,600');
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+
+
+.corpo{
+    background-color: #5eeaa9;
+    width: 100%;
+    float: left;
+    
+
+}
+
+
+#telaprincipal{
+    background-color: #95afc0;
+    width: 64%;
+    
+    margin-left: 17%;
+    margin-top: 1%;
+    border-radius: 13px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: greenyellow;
+    
+}
+
+#telaprincipal input{
+    padding: 2%;
+    font-family: Asap, sans-serif;
+}
+
+#telaprincipal label{
+    padding: 0.2%;
+    margin-top: 7%;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 32px;
+    
+
+}
+
+h1{
+    
+    font-family: 'Coiny', cursive;
+    color: whitesmoke;
+    padding-top: 3%;
+    text-align: center;
+    
+    
+
+}
+
+#botao{
+    margin-left: 45%;
+    margin-top: 6%;
+    font-family: Asap, sans-serif;
+    box-shadow: 5px 5px 0 #333;
+    
+}
+
+#logo h2{
+    
+    margin-top: -2%;
+    margin-bottom: 14%;
+    color: white;
+    text-align: center;
+    
+    
+    
+}
+
+#logo{
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    margin-left: -14.5px;
+    margin-right: -14.5px;
+
+}
+
+#logo h3{
+    
+    margin-top: -7%;
+    margin-bottom: -5%;
+    font-weight: bolder;
+    color: white;
+    display: none;
+    text-align: center;
+
+    
+}
+
+#logo h4{
+    
+    margin-top: 5%;
+    margin-bottom: 3.5%;
+    font-weight: bolder;
+    color: white;
+    display: none;
+    text-align: center;
+
+    
+}
+
