@@ -37,7 +37,12 @@ function main() {
         pegarPeso = parsepeso.value;
         pegarAltura = parsealtura.value;
 
-
+        if(pegarPeso<0 || pegarAltura<0){
+			alert("tente novamente, não digite valores negativos");
+			location.href="index.html"
+		}
+    
+ 
         imc = pegarPeso / (pegarAltura * pegarAltura);
 
 
